@@ -49,3 +49,10 @@ A lightweight utility for inspecting HTTP response headers.
 
 MIT License
 
+
+---
+
+## Screenshot
+
+![Demo](screenshots/demo.jpg)
+
