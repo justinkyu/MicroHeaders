@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microheaders/__init__.py
+microheaders/__main__.py
+microheaders/cli.py
+microheaders/core.py
+microheaders.egg-info/PKG-INFO
+microheaders.egg-info/SOURCES.txt
+microheaders.egg-info/dependency_links.txt
+microheaders.egg-info/entry_points.txt
+microheaders.egg-info/top_level.txt

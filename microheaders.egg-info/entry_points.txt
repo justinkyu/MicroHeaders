@@ -1,0 +1,2 @@
+[console_scripts]
+microheaders = microheaders.cli:main
