@@ -22,4 +22,5 @@ classifiers = [
 microheaders = "microheaders.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microheaders"]
